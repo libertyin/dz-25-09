@@ -41,6 +41,7 @@ p {
 
 .p-big-letter::first-letter {
 
+    float: left;
     padding-right: 20px;
     font-family: 'Playfair Display', 'Arial', serif;
     font-size: 80px;
